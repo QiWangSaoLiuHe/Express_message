@@ -1,0 +1,10 @@
+{
+    "user1": {
+        "password": "pass123",
+        "message": "欢迎回来，用户1！这是您的专属消息。"
+    },
+    "user2": {
+        "password": "abc456",
+        "message": "你好，用户2！您有一条新通知。"
+    }
+}
